@@ -12,6 +12,12 @@ public class Guest {
 
     private String name;
 
+    private String sex;
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
     public String getName() {
         return name;
     }
@@ -20,4 +26,11 @@ public class Guest {
         this.name = name;
     }
 
+    public String getSex() {
+        return sex;
+    }
+
+    public Guest(String sex) {
+        this.sex = sex;
+    }
 }
