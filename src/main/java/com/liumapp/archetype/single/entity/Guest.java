@@ -1,4 +1,4 @@
-package com.liumapp.SpringBootMavenArchetype.entity;
+package com.liumapp.archetype.single.entity;
 
 import org.springframework.stereotype.Component;
 

@@ -16,7 +16,7 @@
 
     <beans>
 
-        <bean name="guest" class="com.liumapp.SpringBootMavenArchetype.entity.Guest">
+        <bean name="guest" class="com.liumapp.archetype.single.entity.Guest">
             <constructor-arg name="sex" type="java.lang.String" value="Boy"></constructor-arg>
             <property name="name" value="honorific guest"></property>
         </bean>

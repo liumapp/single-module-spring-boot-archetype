@@ -1,4 +1,4 @@
-package com.liumapp.SpringBootMavenArchetype;
+package com.liumapp.archetype.single;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.liumapp.SpringBootMavenArchetype.config;
+package com.liumapp.archetype.single.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;
